@@ -1,0 +1,8 @@
+{
+    "image": "Image",
+    "name": "Name",
+    "description": "Description",
+    "height": "Height",
+    "weight": "Weight",
+    "type": "Type"
+}

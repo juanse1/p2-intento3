@@ -1,0 +1,8 @@
+{
+    "image": "Imagen",
+    "name": "Nombre",
+    "description": "Descripción",
+    "height": "Altura",
+    "weight":"Peso",
+    "type":"Tipo"
+}
